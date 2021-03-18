@@ -11,7 +11,8 @@ Geri Dönüşüm Hizmeti ( bknz: <a href="https://www.kureselamaclar.org/amaclar
 
 > Konum Sınırları içinde ilgili kurumlara ait Geri dönüşüm Kumbaralarının yerlerini GERİ DÖNÜŞÜM HARİTASI üzerinden göstermek. Belirlenen konum sınırları içerisindeki ilgili kurumlara ait geri dönüşüm kumbaralarıyla geri donusum hizmetinin sağlanmasi amaclanmaktadir. 
 
-> Is birlik ve ortaklik olarak Belediye veya bu tarz geri donusum kumbaralarini finanse edebilecek kurum / kuruluslar ile calisilacaktir.( bknz: <a href="http://https://returnandearn.org.au/how-it-works" color=red> Geri Donusum Hizmeti</a> )
+> Is birlik ve ortaklik olarak Belediye veya bu tarz geri donusum kumbaralarini finanse edebilecek kurum / kuruluslar ile calisilacaktir.
+> ( bknz: <a href="http://https://returnandearn.org.au/how-it-works" color=red> Geri Donusum Hizmeti</a> )
 
 > Mobil ile beraber kullanildigi bir senaryo varsayilarak Web tarafinda bir arayuz olusturulmasi planlanmaktadir ;
 
