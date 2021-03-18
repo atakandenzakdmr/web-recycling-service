@@ -22,3 +22,15 @@ Geri Dönüşüm Hizmeti ( bknz: <a href="https://www.kureselamaclar.org/amaclar
 - Olusturulan hesaba giris yapildiginda ilgili geri donusum icin sistem yetkilelerine ticket atabilmesi ve kullanici profilinde bir konu basligi olusturabilmesi planlanir.
 
 > Bu projenin isleyinde mobil cihazlarla haberlestigi ve sistem otomasyonunda bakiye islemleri yapildigi gozukmektedir, yapilacak olan projede bir geri donusum hizmeti senaryosu uzerinden temsili bir proje ortaya cikarilmasi planlanmaktadir. Bu proje fikri belki de web servis olarak mobil uygulamayla beraber kullanilabilir bir sisteme donusebilir.( bknz: <a href="https://www.youtube.com/watch?v=fXI60fbWl6g" color=red> Sistemin YouTube'daki ornegi</a> )
+
+<details>
+
+<summary> Kullanilacak Kaynaklar  </summary>
+
+- .Net ile Veritabani iliskilendirme
+https://docs.microsoft.com/tr-tr/aspnet/web-pages/overview/data/5-working-with-data
+- .Net ile GoogleMaps iliskilendirme ve GoogleMaps api key alma
+https://www.youtube.com/watch?v=Nq97_bS8pIU
+http://www.webarsivim.com/2017/11/google-maps-api-key-alma.html
+
+</details>
