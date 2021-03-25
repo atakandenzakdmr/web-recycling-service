@@ -20,6 +20,7 @@ Geri Dönüşüm Hizmeti ( bknz: <a href="https://www.kureselamaclar.org/amaclar
 - Geri donusum hizmeti icin bir uyelik olusturulmasi gerekmektedir. Bunun nedeni geri donusum ile kazanilan para-puanlarin interaktif cuzdanlarina tanimlayabilmek icindir. ( giris ekrani olusturulmasi planlanmaktadir ; Kayit ol ve Giris yap gibi bu giris bilgilerini veritabani islemleriyle kontrol edilmesi planlanmaktadir.)
 - Olusturulan hesaba giris yapildiginda guncel bakiyesini gormesi ve bakiye islemleri yapabilmesi planlanir. ( Orn: Indirim kuponuna donusturmek, banka hesabina aktarim saglayabilmesi)
 - Olusturulan hesaba giris yapildiginda ilgili geri donusum icin sistem yetkilelerine ticket atabilmesi ve kullanici profilinde bir konu basligi olusturabilmesi planlanir.
+- Gonullu bir sekilde saha gorevlisi olmak adina basvurunun yapilabilmesi ve ilgili yetkilendirilmenin sistem uzerinde onaylanabilir olmasi
 
 > Bu projenin isleyinde mobil cihazlarla haberlestigi ve sistem otomasyonunda bakiye islemleri yapildigi gozukmektedir, yapilacak olan projede bir geri donusum hizmeti senaryosu uzerinden temsili bir proje ortaya cikarilmasi planlanmaktadir. Bu proje fikri belki de web servis olarak mobil uygulamayla beraber kullanilabilir bir sisteme donusebilir.( bknz: <a href="https://www.youtube.com/watch?v=DgbjZuRFiQ8" color=red> Sistemin YouTube'daki ornegi</a> )
 
